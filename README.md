@@ -234,6 +234,8 @@ ret     ;Return to caller
 
 
 #Sources
+
+https://gist.github.com/t-mullen/02969915753a8684ed6f#basic-instructions
 http://www.nasm.us/doc/nasmdoc3.html  
 https://www.csee.umbc.edu/courses/undergraduate/CMSC313/fall04/burt_katz/lectures/  
 http://www.eecg.toronto.edu/~amza/www.mindsec.com/files/x86regs.html  
