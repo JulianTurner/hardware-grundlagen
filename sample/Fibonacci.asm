@@ -45,4 +45,3 @@ out:  lw   $a0, 0($t0)      # load fibonacci number for syscall
       addi $t1, $t1, -1     # decrement loop counter
       bgtz $t1, out         # repeat if not finished
       jr   $ra              # return
-	
