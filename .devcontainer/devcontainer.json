@@ -30,7 +30,8 @@
 		"ms-vsliveshare.vsliveshare",
 		"kdarkhan.mips",
 		"yzhang.markdown-all-in-one",
-		"mhutchie.git-graph"
+		"mhutchie.git-graph",
+		"ms-vscode.hexeditor"
 	],
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
 	// "forwardPorts": [],
