@@ -234,6 +234,8 @@ ret     ;Return to caller
 
 
 #Sources
+  
+https://www.dsi.unive.it/~gasparetto/materials/MIPS_Instruction_Set.pdf
 
 https://github.com/akainth015/mars/wiki/Command-Line-Interface
 https://gist.github.com/t-mullen/02969915753a8684ed6f#basic-instructions
